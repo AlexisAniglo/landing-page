@@ -1,0 +1,38 @@
+body {
+    background-color: #a52a2a;
+}
+header {
+    text-align: center;
+    background-image: url(https://64.media.tumblr.com/73e011a3a7a3debcb980f90f7e032d58/c18ed95d0deef382-ac/s1280x1920/2f7e015246fa75e4e00dc6d4215bcb7311366ce9.png);
+}
+nav a {
+    padding-right: 10px;
+    color: white;
+    text-decoration: none;
+}
+nav {
+    background: rgb(14, 13, 13);
+    padding: 10px;
+}
+main {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+main p {
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+main img {
+    height: 30%;
+    width: 30%;
+}
+
+footer p {
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+
+
